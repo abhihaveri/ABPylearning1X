@@ -22,4 +22,4 @@ print('\n programe to find square and cube of a number')
 number=int(input('Please enter a number\n'))
 print(f'The Cube of the {number} is {number**3}, The Square of the {number} is {number**2}')
 
-#Thank you 
+#Thank you

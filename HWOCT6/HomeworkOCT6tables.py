@@ -15,5 +15,5 @@ print(f'{number}x7={number*7}')
 print(f'{number}x8={number*8}')
 print(f'{number}x9={number*9}')
 print(f'{number}x10={number*10}')
-
+#end
 

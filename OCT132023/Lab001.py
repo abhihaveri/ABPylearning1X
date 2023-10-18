@@ -1,0 +1,10 @@
+a= int(input("enter a number \n"))
+b= int(input("enter another number \n"))
+#arthimatic operators
+print(a+b)
+print(a-b)
+print(a/b)
+print(a*b)
+print(a**b)
+print(a//b)
+print(a%b)

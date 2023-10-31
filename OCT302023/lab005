@@ -1,0 +1,3 @@
+my_dic ={'a':1,'b':2,'c':3,'a':50}
+val=my_dic.pop('a')
+print(val)
